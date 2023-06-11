@@ -1,0 +1,15 @@
+body{
+text-align:center;
+}
+#apps{
+    background-color: rgb(255, 119, 0);
+}
+#games{
+    background-color: slateblue;
+}
+.line{
+    background-color: yellowgreen;
+    width:70px;
+    height:7px;
+    margin: 4px auto;
+}
